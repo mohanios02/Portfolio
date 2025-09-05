@@ -9,7 +9,7 @@ export default function Navbar() {
       <div className="max-w-6xl mx-auto px-4">
         <div className="flex justify-between items-center h-16">
           <div className="flex-shrink-0">
-            <span className="text-xl font-bold text-primary">Portfolio</span>
+            <span className="text-xl font-bold text-primary">Mohan k</span>
           </div>
           
           {/* Desktop Navigation */}
