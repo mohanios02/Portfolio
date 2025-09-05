@@ -624,6 +624,7 @@ import {
   menuOutline,
   closeOutline
 } from 'ionicons/icons';
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 const App = () => {
   const [darkTheme, setDarkTheme] = useState(true);
